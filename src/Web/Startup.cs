@@ -36,7 +36,7 @@ namespace Microsoft.eShopWeb.Web
         }
 
         public IConfiguration Configuration { get; }
-
+        //Sample comment
         public void ConfigureDevelopmentServices(IServiceCollection services)
         {
             // use in-memory database
